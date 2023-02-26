@@ -1,5 +1,7 @@
 name: 'DocsForSure-Action'
 description: 'Action for integration with DocsForSure'
+icon: 'align-justify'
+color: 'blue'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
